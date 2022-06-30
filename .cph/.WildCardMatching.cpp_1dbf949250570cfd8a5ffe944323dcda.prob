@@ -1,0 +1,1 @@
+{"name":"Local: WildCardMatching","url":"c:\\Users\\rk117\\OneDrive\\Desktop\\StriverDp\\WildCardMatching.cpp","tests":[{"id":1655478073240,"input":"ab*cd*asdff\nabdefcdeadksfkasdf","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rk117\\OneDrive\\Desktop\\StriverDp\\WildCardMatching.cpp","group":"local","local":true}

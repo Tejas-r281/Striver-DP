@@ -1,0 +1,1 @@
+{"name":"Local: SubsetSumEqualTotarget","url":"c:\\Users\\rk117\\OneDrive\\Desktop\\StriverDp\\SubsetSumEqualTotarget.cpp","tests":[{"id":1655361107702,"input":"4\n2 3 1 1\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rk117\\OneDrive\\Desktop\\StriverDp\\SubsetSumEqualTotarget.cpp","group":"local","local":true}
